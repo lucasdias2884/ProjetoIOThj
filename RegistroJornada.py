@@ -119,8 +119,8 @@ class RegistroJornada:
 # Exemplo de uso
 if __name__ == "__main__":
     registro = RegistroJornada(
-        credenciais_json="C:/Users/Lucas Dias/Desktop/PROJETO IOT/controle_jornada/credenciais.json",
-        spreadsheet_id="1wfVGtf0N7j6Fr0GLLsgm0yVUB19gRwrb7t6zrXDzx-s",
+        credenciais_json="",
+        spreadsheet_id="",
         nome_planilha_funcionarios="Funcionarios",
         porta_serial="COM3"
     )
